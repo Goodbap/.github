@@ -49,9 +49,7 @@
 
 
 ### CI/CD 구조
-![서비스 구조](https://github.com/Goodbap/.github/assets/67535039/0d9690d9-f550-44fa-aa5d-2094e919afef)
-
-
+![배포 구조](https://github.com/Goodbap/.github/assets/67535039/975e0ba5-6e4b-4172-8086-602b7d22716b)
 
 
 
