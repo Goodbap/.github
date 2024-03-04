@@ -43,12 +43,23 @@
 
 ### Back-end
 
+| Role                        | Type                                                         |
+| --------------------------- | ------------------------------------------------------------ |
+| <b>Frame Work</b>           | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
+| <b>Programming Language</b> | ![Java](https://img.shields.io/badge/Java-00558C?style=for-the-badge&logo=Java&logoColor=white) |
+| <b>Test</b>                 | ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white) ![AssertJ](https://img.shields.io/badge/AssertJ-25A162?style=for-the-badge&logo=AssertJ&logoColor=white) |
+| <b>Build</b>                | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white) |
+| <b>DataBase</b>             | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) |
+| <b>IDE</b>                  | ![VSC](https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white) |
+| <b>CI/CD</b>                | ![GithubActions](https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white) ![AmazonAWS](https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white) |
+
+<!---
 - Spring : `3.2.2`(Java 17)
 - Test : `JUnit4`, `AssertJ`
 - Build : `gradle`
 - DB : `MySQL`(Amazon RDS)
 - IDE : `Visual Studio Code`
-- CI/CD : `Github Actions`, `Amazon CodeDeploy`
+- CI/CD : `Github Actions`, `Amazon CodeDeploy`--->
 
 ## Structure
 
