@@ -53,6 +53,7 @@
 | <b>IDE</b>                  | ![VSC](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white) |
 | <b>CI/CD</b>                | ![GithubActions](https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white) ![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white) |
 
+
 <!---
 - Spring : `3.2.2`(Java 17)
 - Test : `JUnit4`, `AssertJ`
@@ -70,3 +71,11 @@
 ### CI/CD 구조
 
 ![배포 구조](https://github.com/Goodbap/.github/assets/67535039/975e0ba5-6e4b-4172-8086-602b7d22716b)
+
+## Members
+### Front-End
+- [SEHO PARK](https://github.com/sayyyho)
+  - 프론트엔드 개발, 페이지 디자인
+### Back-End
+- [Kyoung-M1N](https://github.com/Kyoung-M1N)
+  - 백엔드 개발, 배포, 데이터 구축
